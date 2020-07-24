@@ -36,6 +36,11 @@ yarn add accurate-core
 - 易于扩展。
 - 开源的。
 
+## More features
+
+- See ([accurate](https://github.com/Ipxxiao/accurate)) for more features.
+- 更多功能请查看([accurate](https://github.com/Ipxxiao/accurate))。
+
 ## Usage
 
 ``` javascript 
