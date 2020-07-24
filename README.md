@@ -26,10 +26,12 @@ yarn add accurate-core
 
 ## Features
 
+- High performance
 - Runs on any JavaScript engine.
 - Is easily extensible.
 - Open source.
 
+- 性能较高。
 - 运行在任何JavaScript引擎。
 - 易于扩展。
 - 开源的。
