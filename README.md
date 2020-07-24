@@ -38,8 +38,8 @@ yarn add accurate-core
 
 ## More features
 
-- See ([accurate](https://github.com/Ipxxiao/accurate)) for more features.
-- 更多功能请查看([accurate](https://github.com/Ipxxiao/accurate))。
+- See [accurate](https://github.com/Ipxxiao/accurate) for more features.
+- 更多功能请查看 [accurate](https://github.com/Ipxxiao/accurate)。
 
 ## Usage
 
