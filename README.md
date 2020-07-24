@@ -7,7 +7,8 @@
 [![NPM downloads](https://img.shields.io/npm/dm/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core)
 [![Coverage Status](https://coveralls.io/repos/github/Ipxxiao/accurate-core/badge.svg?branch=master)](https://coveralls.io/github/Ipxxiao/accurate-core?branch=master)
 
-Accurate-core is an precision calculation for JavaScript and Nodejs. 解决JavaScript与Node.js精度计算（浮点数计算精度）问题。
+- Accurate-core is an precision calculation for JavaScript and Nodejs.
+- 解决JavaScript与Node.js精度计算（浮点数计算精度）问题。
 
 ## Browsers support
 
