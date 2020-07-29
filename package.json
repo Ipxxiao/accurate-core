@@ -1,7 +1,7 @@
 {
     "name": "accurate-core",
     "version": "1.0.1",
-    "description": "An simple High performance precision calculation for JavaScript and Node.js. 解决JavaScript与Node.js精度计算（小数、浮点数计算精度）问题，性能较高。",
+    "description": "An lightweight and High performance precision calculation for JavaScript and Node.js. 解决JavaScript与Node.js精度计算（小数、浮点数计算精度）问题，轻量级、性能较高。",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Ipxxiao/accurate-core.git"

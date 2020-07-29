@@ -7,8 +7,8 @@
 [![NPM downloads](https://img.shields.io/npm/dm/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core)
 [![Coverage Status](https://coveralls.io/repos/github/Ipxxiao/accurate-core/badge.svg?branch=master)](https://coveralls.io/github/Ipxxiao/accurate-core?branch=master)
 
-- An simple High performance precision calculation for JavaScript and Node.js.
-- 解决JavaScript与Node.js精度计算（浮点数计算精度）问题，性能较高。
+- An lightweight and High performance precision calculation for JavaScript and Node.js.
+- 解决JavaScript与Node.js精度计算（浮点数计算精度）问题，轻量级、性能较高。
 
 ## Browsers support
 
@@ -26,11 +26,13 @@ yarn add accurate-core
 
 ## Features
 
-- High performance
+- Lightweight.
+- High performance.
 - Runs on any JavaScript engine.
 - Is easily extensible.
 - Open source.
 
+- 轻量级。
 - 性能较高。
 - 运行在任何JavaScript引擎。
 - 易于扩展。
