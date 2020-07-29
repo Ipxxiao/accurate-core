@@ -124,5 +124,7 @@ accurateCalc.modulus(1.1, 1)
 ```
 
 ## More
+- [Changelog](https://github.com/Ipxxiao/accurate-core/blob/master/CHANGELOG.md)
+- [License](https://github.com/Ipxxiao/accurate-core/blob/master/LICENSE)
 - [Docs](https://github.com/Ipxxiao/accurate-core/tree/master/docs)
 - [Test](https://github.com/Ipxxiao/accurate-core/blob/master/__tests__/index.spec.ts)
