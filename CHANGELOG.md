@@ -32,6 +32,10 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
+## 1.0.2 (2020-07-31)
+
+- Remove Codecov of dependencies
+
 ## 1.0.1 (2020-07-24)
 
 First release, from the [accurate](https://github.com/Ipxxiao/accurate) extraction
