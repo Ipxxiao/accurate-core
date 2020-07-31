@@ -1,10 +1,4 @@
-# Accurate-core &middot; 
-
-[![NPM version](https://img.shields.io/npm/v/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core)
-[![NPM downloads](https://img.shields.io/npm/dm/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core)
-[![Build Status](https://travis-ci.org/Ipxxiao/accurate-core.svg?branch=master)](https://travis-ci.org/Ipxxiao/accurate-core)
-[![Coverage Status](https://coveralls.io/repos/github/Ipxxiao/accurate-core/badge.svg?branch=master)](https://coveralls.io/github/Ipxxiao/accurate-core?branch=master)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+# Accurate-core &middot; [![NPM version](https://img.shields.io/npm/v/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core) [![NPM downloads](https://img.shields.io/npm/dm/accurate-core.svg?style=flat)](https://www.npmjs.com/package/accurate-core) [![Build Status](https://travis-ci.org/Ipxxiao/accurate-core.svg?branch=master)](https://travis-ci.org/Ipxxiao/accurate-core) [![Coverage Status](https://coveralls.io/repos/github/Ipxxiao/accurate-core/badge.svg?branch=master)](https://coveralls.io/github/Ipxxiao/accurate-core?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 - An lightweight and high performance precision calculation for JavaScript and Node.js.
 - 解决 JavaScript 与 Node.js 精度计算（浮点数计算精度）问题，轻量级、性能较高。
