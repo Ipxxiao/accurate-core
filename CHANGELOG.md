@@ -32,6 +32,9 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
+## 1.0.3 (2020-12-28)
+- Security update jest version
+
 ## 1.0.2 (2020-07-31)
 
 - Remove Codecov of dependencies

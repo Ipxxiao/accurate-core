@@ -21,12 +21,14 @@ yarn add accurate-core
 
 - Lightweight.
 - High performance.
+- No dependencies.
 - Runs on any JavaScript engine.
 - Is easily extensible.
 - Open source.
 
 - 轻量级。
 - 性能较高。
+- 没有依赖。
 - 运行在任何 JavaScript 引擎。
 - 易于扩展。
 - 开源的。
