@@ -8,13 +8,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 <details>
   <summary><strong>Guiding Principles</strong></summary>
 
-- Changelogs are for humans, not machines.
-- There should be an entry for every single version.
-- The same types of changes should be grouped.
-- Versions and sections should be linkable.
-- The latest version comes first.
-- The release date of each versions is displayed.
-- Mention whether you follow Semantic Versioning.
+-   Changelogs are for humans, not machines.
+-   There should be an entry for every single version.
+-   The same types of changes should be grouped.
+-   Versions and sections should be linkable.
+-   The latest version comes first.
+-   The release date of each versions is displayed.
+-   Mention whether you follow Semantic Versioning.
 
 </details>
 
@@ -23,25 +23,25 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Changelog entries are classified using the following labels _(from [keep-a-changelog](http://keepachangelog.com/)_):
 
-- `Added` for new features.
-- `Changed` for changes in existing functionality.
-- `Deprecated` for soon-to-be removed features.
-- `Removed` for now removed features.
-- `Fixed` for any bug fixes.
-- `Security` in case of vulnerabilities.
+-   `Added` for new features.
+-   `Changed` for changes in existing functionality.
+-   `Deprecated` for soon-to-be removed features.
+-   `Removed` for now removed features.
+-   `Fixed` for any bug fixes.
+-   `Security` in case of vulnerabilities.
 
 </details>
 
 ## 1.0.3 (2020-12-28)
-- Security update jest version
+
+-   Security update jest version
 
 ## 1.0.2 (2020-07-31)
 
-- Remove Codecov of dependencies
+-   Remove Codecov of dependencies
 
 ## 1.0.1 (2020-07-24)
 
-First release, from the [accurate](https://github.com/Ipxxiao/accurate) extraction
-
+-   First release, from the [accurate](https://github.com/Ipxxiao/accurate) extraction
 
 [keep-a-changelog]: https://github.com/olivierlacan/keep-a-changelog
