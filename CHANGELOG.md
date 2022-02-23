@@ -32,9 +32,13 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
-## 1.0.5 (2022-02-23)
+## 1.0.6 (2022-02-23)
 
 -   Security update of dependabot alerts
+
+## 1.0.5 (2021-04-07)
+
+-   Changed yarn.lock
 
 ## 1.0.4 (2021-04-01)
 
